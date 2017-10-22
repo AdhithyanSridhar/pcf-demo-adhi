@@ -1,0 +1,15 @@
+---
+memory: 1024M
+instances: 1
+applications:
+- name: pcf-demo-adhi
+  host: pcf-demo-adhi
+  path: target/pcf-demo-0.0.1-SNAPSHOT.jar
+  services:
+  - demo-mysql
+  - adhi-configserver
+  - adhi-serviceregistry
+  - adhi-circuit-breaker-dashboard
+  env:
+    SPRING_PROFILES_ACTIVE: prod
+    CF_TARGET: https://api.run.pivotal.io
