@@ -1,5 +1,5 @@
 # pcf-demo-adhi
-This is a basic spring boot application that uses pivotal cloud foundry's spring cloud services such as eureka registry, config server, hystrix dashboard, load balancer, zuul proxy, etc. Uses JPA and rest repositories with in-built rest repositories hale browser, actuator.
+This is a basic spring boot application that uses pivotal cloud foundry's *Spring cloud services* such as eureka registry, config server, hystrix dashboard, load balancer, zuul proxy, etc. Also uses JPA and rest repositories with in-built rest repositories hale browser, actuator.
 
 ## Config repository
 https://github.com/AdhithyanSridhar/pcf-config-repo
@@ -36,3 +36,9 @@ git add .
 git commit -m "message"
 git push
 ```
+## Important URLs
+* [Pivotal Login] (https://login.run.pivotal.io/)
+* [Pivotal Docs] (http://docs.pivotal.io/)
+* [Pivotal] (https://pivotal.io/platform)
+* [Spring Guids] (https://spring.io/guides)
+
