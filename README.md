@@ -23,3 +23,16 @@ Application rest services
 * http://pcf-demo-adhi.cfapps.io/health
 * https://pcf-demo-adhi.cfapps.io/profile
 * https://pcf-demo-adhi.cfapps.io/hystrix.stream
+
+## Some basic Git commands are:
+```
+git clone "url"
+git init
+git status
+git log
+git
+git pull
+git add .
+git commit -m "message"
+git push
+```
