@@ -41,4 +41,5 @@ git push
 * [Pivotal Docs] (http://docs.pivotal.io/)
 * [Pivotal] (https://pivotal.io/platform)
 * [Spring Guids] (https://spring.io/guides)
+* [GitHub Pages](https://pages.github.com/)
 
